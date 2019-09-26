@@ -2,9 +2,9 @@
 This Codes are performed in my Lab.
 Aim- Create an xml document for representing the structure of the Book.
 Software Requirement – The software requirement include a text editor (notepad++) and Web Browser.  
-Hardware Requirements - Hardware Interface:
-a)	Intel® Core ™  i5-6006U CPU, Processor speed : 2.00GHz
-            b)   Minimum RAM requirement for proper functioning is 8 GB.
+-Hardware Requirements - Hardware Interface:
+-a)Intel® Core ™  i5-6006U CPU, Processor speed : 2.00GHz
+-b)   Minimum RAM requirement for proper functioning is 8 GB.
 Methodology-
 1.)	XML stands for eXtensible Markup Language.
 2.)	A markup language is used to provide information about a document.
