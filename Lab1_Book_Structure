@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<!--Above is the Xml prolog available-->
+<!--List of books-->
+<catalog> 
+  <book id="b1">
+  <!--Root Element-->
+  <book_name>The Blue Umbrella</book_name>
+  <author>Ruskin Bond</author>
+  <publisher>Rupa and co</publisher>
+  <genre>Juvenile Fiction</genre>
+  </book>
+ 
+ <book id="b2">
+  <book_name>Black Holes:The BBC Reith Lectures</book_name>
+  <author>Hawking Stephan</author>
+  <publisher>Penguin</publisher>
+  <genre>Science</genre>
+ </book>
+ 
+ <book id="b3">
+  <book_name>Raavan-Enemy of Aryavarta</book_name>
+  <author>Amish Tripathi</author>
+  <publisher>Westland</publisher>
+  <genre>Literary Fiction</genre>
+ </book>
+ 
+ <book id="b4">
+  <book_name>Revolution 2020</book_name>
+  <author>Chetan Bhagat</author>
+  <publisher>Rupa and co</publisher>
+  <genre>Fiction</genre>
+ </book>
+</catalog>
+
