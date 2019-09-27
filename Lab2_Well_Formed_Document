@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<!--Above is the Xml prolog available-->
+<!--Detail of Student-->
+<catalog> 
+  <student id="s1">
+  <!--Root Element-->
+  <stu_name>Neeraj Singh</stu_name>
+  <course>B.Tech CSE OS and OS</course>
+  <sapid>500062818</sapid>
+  <hometown>Dehradun</hometown>
+  </student>
+ 
+ <student id="s2">
+  <stu_name>Bhavesh joshi</stu_name>
+  <course>B.Tech CSE Mobile Computing</course>
+  <sapid>500062900</sapid>
+  <hometown>Mumbai</hometown>
+  </student>
+ 
+ <student id="s3">
+  <stu_name>Jeet jaiswal</stu_name>
+  <course>B.Tech CSE CCVT</course>
+  <sapid>500062876</sapid>
+  <hometown>Delhi</hometown>
+  </student>
+ 
+ <student id="s4">
+  <stu_name>Nikhil gupta</stu_name>
+  <course>B.Tech CSE BAO</course>
+  <sapid>500062818</sapid>
+  <hometown>Indore</hometown>
+  </student>
+</catalog>
