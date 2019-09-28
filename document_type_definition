@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE Employee
+   [
+     <!ELEMENT Employee (empno,name,department,salary)>
+     <!ELEMENT empno (#PCDATA)>
+     <!ELEMENT name (#PCDATA)>
+     <!ELEMENT department (#PCDATA)>
+     <!ELEMENT salary (#PCDATA)>
+   ]>
+     
+  <employee>
+       <id>01</id>
+       <name>Neeraj Singh</name>
+       <department>Security</department>
+       <salary>10000</salary>
+   </employee>
