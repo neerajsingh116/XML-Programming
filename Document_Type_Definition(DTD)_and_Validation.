@@ -1,0 +1,16 @@
+Employee.xml
+            <?xml version="1.0"?>  
+           <!DOCTYPE employee SYSTEM "employee.dtd">  
+           <employee>  
+           <firstname>Neeraj</firstname>  
+           <lastname>Singh</lastname>  
+           <email>Neeraj@gmail.com</email>  
+           </employee>
+           
+           
+           
+Employee.dtd
+            <!ELEMENT employee (firstname,lastname,email)>  
+            <!ELEMENT firstname (#PCDATA)>  
+            <!ELEMENT lastname (#PCDATA)>  
+           <!ELEMENT email (#PCDATA)>  
