@@ -1,0 +1,92 @@
+<?xml-stylesheet type="text/css" href="name_of_css_file.css"?>
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="Exp8.css"?> 
+<Geeks_for_Geeks> 
+    <title>Hello Everyone! Welcome to Site</title> 
+    <geeks_section> 
+        <name>Algo</name> 
+        <topic1>Greedy Algo</topic1> 
+        <topic2>Randomised Algo</topic2> 
+        <topic3>Searching Algo</topic3> 
+        <topic4>Sorting Algo</topic4> 
+    </geeks_section> 
+    <geeks_section> 
+        <name>Data Structures</name> 
+        <topic1>Array</topic1> 
+        <topic2>Stack</topic2> 
+
+        <topic3>Queue</topic3> 
+        <topic4>Linked List</topic4> 
+    </geeks_section> 
+    <geeks_section> 
+        <name>Web Technology</name> 
+        <topic1>HTML</topic1> 
+        <topic2>CSS</topic2> 
+        <topic3>Java Script</topic3> 
+        <topic4>Php</topic4> 
+    </geeks_section> 
+    <geeks_section> 
+        <name>Languages</name> 
+        <topic1>C/C++</topic1> 
+        <topic2>Java</topic2> 
+        <topic3>Python</topic3> 
+        <topic4>Ruby</topic4> 
+    </geeks_section> 
+    <geeks_section> 
+        <name>DBMS</name> 
+        <topic1>Basics</topic1> 
+        <topic2>ER Diagram</topic2> 
+        <topic3>Normalization</topic3> 
+        <topic4>Transaction Concepts</topic4> 
+    </geeks_section> 
+</Geeks_for_Geeks>  
+
+
+Exp8.css
+
+Geeks_for_Geeks  
+              { 
+              font-size:80%; 
+              margin:0.5em; 
+              font-family: Verdana; 
+              display:block; 
+              } 
+geeks_section { 
+              display:block;  
+              border: 1px solid silver; 
+              margin:0.5em;  
+              padding:0.5em;  
+              background-color:whitesmoke; 
+              } 
+title { 
+      display:block; 
+      font-weight:bolder; 
+      text-align:center; 
+      font-size:30px; 
+      background-color: green; 
+      color: white; 
+  
+      } 
+name, topic1, topic2, topic3, topic4 { 
+                                 display:block; 
+                                 text-align:center; 
+                                 } 
+name { 
+     color:green;  
+     text-decoration: underline  ; 
+     font-weight:bolder; 
+     font-size:20px; 
+     } 
+topic1 { 
+       color:green
+       } 
+topic2 { 
+       color:brown 
+       } 
+topic3 { 
+       color:blue
+       } 
+topic4 {  
+       color:orange 
+       } 
