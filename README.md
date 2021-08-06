@@ -4,3 +4,4 @@
 - [Aim:Create document type definition (DTD) for representing the structure of Employee.](https://github.com/neerajsingh116/XML-Programming/blob/master/Lab3_Document_type_definition)
 - [Aim:Create document type definition (DTD) and Perform Validation](https://github.com/neerajsingh116/XML-Programming/blob/master/Document_Type_Definition(DTD)_and_Validation.)
 - [Aim: Use of Schema and XML Restriction](https://github.com/neerajsingh116/XML-Programming/blob/master/Lab_5_XML_Schema%20and%20XML_Restriction)
+- [Use_of_stylesheets](https://github.com/neerajsingh116/XML-Programming/blob/master/Lab6_Use_of_stylesheets)
